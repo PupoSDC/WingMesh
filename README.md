@@ -1,2 +1,7 @@
 # WingMesh
-A middleware blockMesh utility to design wings
+
+A middle-ware blockMesh utility to design wings.
+
+# Requirements
+
+Python
